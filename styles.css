@@ -1,0 +1,17 @@
+/* RECURSOS
+https://getwaves.io/
+https://app.haikei.app/
+
+*/
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: prompt, sans-serif;
+	color: #fff;
+	background: #202731;
+	padding: 0;
+}
